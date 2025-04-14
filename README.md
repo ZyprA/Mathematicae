@@ -37,7 +37,7 @@ dependencyResolutionManagement {
 }
 
 dependencies {
-    implementation 'com.github.ZyprA:Mathmaticae:Tag'
+    implementation 'com.github.ZyprA:Mathmaticae:0.1.0'
 }
 ```
 
