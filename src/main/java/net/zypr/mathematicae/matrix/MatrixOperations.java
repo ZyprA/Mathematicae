@@ -1,4 +1,4 @@
-package net.zypr.mathmaticae.matrix;
+package net.zypr.mathematicae.matrix;
 
 public interface MatrixOperations {
     Matrix add(Matrix other);
