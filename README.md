@@ -1,6 +1,4 @@
----
 
-```markdown
 # Mathematicae
 
 📐 A modular, object-oriented numerical computing library written in Java.  
