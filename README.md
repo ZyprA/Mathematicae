@@ -25,15 +25,12 @@ You can include Mathematicae in your project by downloading the `.jar` file:
 implementation files('libs/Mathematicae-0.1.0.jar')
 ```
 
-Or, use JitPack (recommendation for Gradle users):
+Or, use JitPack(https://jitpack.io/#ZyprA/Mathmaticae/) (recommendation for Gradle users):
 
 ```groovy
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-    repositories {
-        mavenCentral()
-        maven { url 'https://jitpack.io' }
-    }
+repositories {
+    mavenCentral()
+    maven { url 'https://jitpack.io' }
 }
 
 dependencies {
