@@ -33,7 +33,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.yourusername:Mathematicae:0.1.0'
+    implementation 'com.github.ZyprA:Mathematicae:0.1.0'
 }
 ```
 
@@ -44,7 +44,7 @@ dependencies {
 ### Example: Matrix Multiplication
 
 ```java
-import com.asahi.mathematicae.matrix.DenseMatrix;
+import net.zypr.mathematicae.matrix.DenseMatrix;
 
 DenseMatrix A = new DenseMatrix(new double[][]{
     {1, 2},
@@ -63,7 +63,7 @@ System.out.println(C);
 ### Example: Mean Calculation
 
 ```java
-import com.asahi.mathematicae.stats.Statistics;
+import net.zypr.mathematicae.stats.Statistics;
 
 double[] data = {1.0, 2.0, 3.0, 4.0};
 double mean = Statistics.mean(data);
