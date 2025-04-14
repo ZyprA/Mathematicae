@@ -1,4 +1,4 @@
-package matrix;
+package net.zypr.mathmaticae.matrix;
 
 public class DenseMatrix extends Matrix {
     public DenseMatrix(double[][] data) {

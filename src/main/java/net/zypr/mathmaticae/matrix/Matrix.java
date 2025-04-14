@@ -1,4 +1,4 @@
-package matrix;
+package net.zypr.mathmaticae.matrix;
 
 public abstract class Matrix implements MatrixOperations {
     protected double[][] data;

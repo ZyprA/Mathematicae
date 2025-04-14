@@ -1,4 +1,4 @@
-package optimizer;
+package net.zypr.mathmaticae.optimizer;
 
 import java.util.function.Function;
 

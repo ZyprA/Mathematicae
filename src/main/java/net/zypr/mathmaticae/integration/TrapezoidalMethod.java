@@ -1,4 +1,4 @@
-package integration;
+package net.zypr.mathmaticae.integration;
 
 import java.util.function.Function;
 

@@ -1,4 +1,4 @@
-package stats;
+package net.zypr.mathmaticae.stats;
 
 public class Statistics {
 
